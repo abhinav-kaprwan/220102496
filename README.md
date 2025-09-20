@@ -131,7 +131,10 @@ Copy code
 cd backend && npm start
 
 # Terminal 2 - frontend
-cd frontend && npm run dev![232](https://github.com/user-attachments/assets/009b4c34-e750-4d37-8078-fe04db16339b)
+cd frontend && npm run dev
+
+![232](https://github.com/user-attachments/assets/6c58f29b-988b-49c2-9476-b1c9d37f5a9b)
+
 
 
 
