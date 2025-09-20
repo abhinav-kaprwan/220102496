@@ -16,6 +16,12 @@ It also includes *health monitoring* and *centralized logging*.
 - 📝 Centralized logging for requests, errors, and user actions  
 
 ---
+![231](https://github.com/user-attachments/assets/2e32b4b4-a825-44bb-b8c6-716f59b8a0d4)
+![232](https://github.com/user-attachments/assets/fc0af250-109f-46dd-9b80-da799d84bb76)
+
+![233](https://github.com/user-attachments/assets/17692b3f-6380-4db8-be0b-6e12cd2aea9a)
+
+
 
 ## 🛠 Tech Stack
 
@@ -132,7 +138,8 @@ cd backend && npm start
 
 # Terminal 2 - frontend
 cd frontend && npm run dev
-<img width="920" height="424" alt="image" src="https://github.com/user-attachments/assets/71653389-e489-4d5f-8dfa-c77ebc89af37"/>
+
+
 
 
 
