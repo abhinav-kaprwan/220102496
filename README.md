@@ -132,8 +132,7 @@ cd backend && npm start
 
 # Terminal 2 - frontend
 cd frontend && npm run dev
-
-![232](https://github.com/user-attachments/assets/6c58f29b-988b-49c2-9476-b1c9d37f5a9b)
+<img width="920" height="424" alt="image" src="https://github.com/user-attachments/assets/71653389-e489-4d5f-8dfa-c77ebc89af37"/>
 
 
 
